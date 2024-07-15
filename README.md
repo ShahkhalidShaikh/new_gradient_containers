@@ -8,7 +8,7 @@ Gradient container package lets you add a beautiful gradient container to your F
 1. Add the latest version of package to your pubspec.yaml (and run`dart pub get`):
 ```yaml
 dependencies:
-  fancy_containers: ^0.0.1
+  fancy_containers: ^0.0.2
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
