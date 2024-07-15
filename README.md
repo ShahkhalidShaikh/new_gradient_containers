@@ -12,7 +12,7 @@ dependencies:
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
-import 'package:gradient_containers/new_gradient_containers.dart';
+import 'package:new_gradient_containers/new_gradient_containers.dart';
 ```
 
 ## Example
